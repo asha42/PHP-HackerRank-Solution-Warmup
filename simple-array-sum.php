@@ -8,3 +8,4 @@ function simpleArraySum($ar) {
 }
 
 echo simpleArraySum([8, 99, 13]);
+?>
