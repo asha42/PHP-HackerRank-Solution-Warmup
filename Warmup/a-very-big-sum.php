@@ -11,7 +11,6 @@
 function aVeryBigSum($ar) {
     
     return array_sum($ar);
-
 }
 echo aVeryBigSum([10,3,19,30]);
 ?>
