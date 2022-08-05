@@ -15,6 +15,5 @@ function compareTriplets($a, $b) {
    
    return [$alice_points, $bob_points];
 }
- 
 print_r(compareTriplets([1, 2, 3], [3, 2, 1]));
 ?>
