@@ -22,7 +22,6 @@ function staircase($n) {
     }
 
 }
-
 $n = intval(trim(fgets(STDIN)));
 
 staircase(6);
