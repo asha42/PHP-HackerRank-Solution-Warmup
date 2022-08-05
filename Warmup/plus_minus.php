@@ -25,4 +25,5 @@ function plusMinus($arr) {
       echo round($round[2]/$total,6)."\n";
 }
 plusMinus([-4, 3, -9, 0, 4, 1]);
+
 ?>
